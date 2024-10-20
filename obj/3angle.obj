@@ -1,0 +1,12 @@
+# Apple ModelIO OBJ File: 3angle
+mtllib 3angle.mtl
+g 
+v -0.5 -0.5 0.5
+v  0 0.5 0.5
+v  0.5 -0.5 0.5
+v  0 -0.5 -0.5
+f 1// 2// 3// 
+f 1// 4// 2// 
+f 1// 4// 3// 
+f 2// 4// 3// 
+s off

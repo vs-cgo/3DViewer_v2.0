@@ -1,0 +1,5 @@
+# Apple ModelIO OBJ File: cube
+mtllib cube.mtl
+g 
+usemtl material_1
+s off
